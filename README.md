@@ -10,28 +10,28 @@ Relations:
 
 Second level
 
-used laravel built in validation for validating 
-laravel returns 422 for validation error for other errors we can use middlewares
+used laravel built in validation.
+laravel returns 422 for validation error for other errors we can use middlewares.
 
 Third level 
 
-authentication with sanctum
-using validation
-using eager loading 
-using policy for restricting authorization
-using pagination and cache for query optimizatoin
+authentication with sanctum.
+using validation.
+using eager loading. 
+using policy for restricting authorization.
+using pagination and cache for query optimizatoin.
 
 
 Forth level
 
-1 single env for every developer
-no more works in my machice
-faster production insdie staging and production env
+1 single env for every developer.
+no more works in my machice.
+faster production insdie staging and production env.
 
 problems and solutions
-    - composer installatoin => using cache layer
-    - storage premission => running a command and giving the premission
-    - connection between services => using network
+    - composer installatoin => using cache layer.
+    - storage premission => running a command and giving the premission.
+    - connection between services => using network.
 
 
 for runnig the docker do:
