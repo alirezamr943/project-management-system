@@ -9,6 +9,13 @@ Relations
     - many to many
         - users and projects
 
+Second level
+
+used laravel built in validation for validating 
+laravel returns 422 for validation error for other errors we can user middlewares
+
+
+
 
 
 
